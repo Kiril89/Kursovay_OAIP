@@ -1,0 +1,4 @@
+﻿  Kursach_Bsyir.cpp
+C:\Users\Kyril\Desktop\Kursach_Bsyir\Kursach_Bsyir\Kursach_Bsyir.cpp(20,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kyril\Desktop\Kursach_Bsyir\Kursach_Bsyir\Kursach_Bsyir.cpp(19,33): warning C4101: i: неиспользованная локальная переменная
+  Kursach_Bsyir.vcxproj -> C:\Users\Kyril\Desktop\Kursach_Bsyir\Debug\Kursach_Bsyir.exe
